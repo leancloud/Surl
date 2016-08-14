@@ -1,0 +1,5 @@
+module Surl [system] {
+    header "surl.h"
+    link "curl"
+    export *
+}
