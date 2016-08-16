@@ -9,6 +9,7 @@
 #ifndef surl_h
 #define surl_h
 
+#import <stdbool.h>
 #import <curl/curl.h>
 
 #define CURL_INLINE extern inline
